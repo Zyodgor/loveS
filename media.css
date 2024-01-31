@@ -1,0 +1,32 @@
+@media (max-width: 700px) {
+    .pp {
+        font-size: 40px;
+        margin: 20px 0;
+    }
+    .hh{
+        margin: 20px 0;
+        font-size: 40px;
+    }
+    
+}
+
+@media (max-width: 550px) {
+    .hh {
+        margin: 5px 0;
+        font-size: 35px;
+    }
+    .pp {
+        font-size: 30px;
+        margin: 15px 0;
+    }
+}
+
+@media (max-width: 400px) {
+    .pp {
+        font-size: 25px;
+        margin: 15px 0;
+    }
+    .buttons button {
+        padding: 5px 25px;
+    }
+}
